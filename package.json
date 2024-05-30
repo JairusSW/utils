@@ -1,0 +1,27 @@
+{
+  "name": "utils",
+  "version": "0.0.0",
+  "description": "asdfdsaf",
+  "author": "Jairus Tanaka",
+  "contributors": [],
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^20.12.13",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": { "dotenv": "^16.4.5", "querystring": "^0.2.1", "speaker": "^0.5.5", "terminal-image": "^2.0.0", "undici": "^6.18.2" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JairusSW/utils.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/JairusSW/utils/issues"
+  },
+  "homepage": "https://github.com/JairusSW/utils#readme",
+  "type": "module",
+  "publishConfig": {
+    "@JairusSW:registry": "https://npm.pkg.github.com"
+  }
+}
